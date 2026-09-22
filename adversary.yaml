@@ -1,4 +1,4 @@
-name: adversarylabs/lang/python
+name: lang/python
 version: 0.0.16
 description: Reviews Python for security, reliability, and correctness hazards, including expiring OAuth bearer reuse.
 
