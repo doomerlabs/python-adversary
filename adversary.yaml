@@ -1,5 +1,5 @@
 name: lang/python
-version: 0.0.16
+version: 0.0.17
 description: Reviews Python for security, reliability, and correctness hazards, including expiring OAuth bearer reuse.
 
 triggers:
